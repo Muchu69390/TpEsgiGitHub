@@ -1,8 +1,26 @@
 nav{
-    background-color: grey;
+    background-color: black;
 }
 
 .nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: deepskyblue;
+}
+
+.mynav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    color: deepskyblue;
+    transition: all .3s;
+}
+
+.navbar-brand:hover{
     color: white;
 
 }
