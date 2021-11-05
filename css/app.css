@@ -4,6 +4,8 @@ nav{
 
 .nav-link{
     color: white;
+    padding-left: 3rem;
+    font-size: 1.15rem;
 }
 .nav-link:hover{
     color: deepskyblue;
