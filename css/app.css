@@ -5,7 +5,7 @@
     flex-wrap: wrap;
 }
 
-#card-container .card{
+#card-container img{
     width: 24%;
     margin-bottom: 20px;
 }
