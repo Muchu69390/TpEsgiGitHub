@@ -27,3 +27,31 @@
         width: 33%;
     }
 }
+
+nav{
+    background-color: black;
+}
+
+.nav-link{
+    color: white;
+    padding-left: 3rem;
+    font-size: 1.15rem;
+}
+.nav-link:hover{
+    color: deepskyblue;
+}
+
+.mynav{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    color: deepskyblue;
+    transition: all .3s;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
